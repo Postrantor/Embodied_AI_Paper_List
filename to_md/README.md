@@ -23,7 +23,7 @@
 
 _具身智能体框架_
 
-随着时间的推移，具身智能逐渐发展成为一个跨学科领域，涉及计算机视觉、自然语言处理和机器人技术等多个关键技术。**这种跨学科的特性使得具身智能能够整合不同领域的先进技术，为解决复杂的实际问题提供了\*\***新的可能性。\*\*
+随着时间的推移，具身智能逐渐发展成为一个跨学科领域，涉及计算机视觉、自然语言处理和机器人技术等多个关键技术。**这种跨学科的特性使得具身智能能够整合不同领域的先进技术，为解决复杂的实际问题提供了新的可能性**。
 
 在具身任务中，智能体需要理解人类指令中的意图，主动探索环境，感知来自虚拟和物理世界的多模态信息，并执行相应的操作以完成复杂任务。这种多方面的能力要求使得具身智能成为了实现通用人工智能的重要途径之一。
 
@@ -143,7 +143,7 @@ _语言引导的交互式抓取框架_
 
 _基于多模态大模型的具身智能体框架_
 
-**## \*\*\*\***虚拟到现实的迁移\*\*\*\*
+## **虚拟到现实的迁移**
 
 虚拟到现实的迁移 (Sim-to-Real adaptation) 是具身智能研究中的一个重要课题，指的是将模拟环境 (数字空间) 中学习到的能力或行为转移到现实世界 (物理世界) 中的过程。
 
@@ -163,15 +163,11 @@ _五种虚拟到现实的迁移方案_
 **Sim-to-Real 范式**  
 研究团队介绍了五种不同的 Sim-to-Real 范式, 为这一领域的研究提供了系统的指导:
 
-直接迁移: 直接将在仿真中训练的模型应用于现实环境。
-
-领域随机化: 在训练过程中引入随机性, 增强模型的泛化能力。
-
-领域适应: 使用少量真实世界数据对仿真训练的模型进行微调。
-
-元学习: 学习如何快速适应新环境的能力。
-
-混合现实: 结合仿真和现实环境进行训练和测试。
+- 直接迁移: 直接将在仿真中训练的模型应用于现实环境。
+- 领域随机化: 在训练过程中引入随机性, 增强模型的泛化能力。
+- 领域适应: 使用少量真实世界数据对仿真训练的模型进行微调。
+- 元学习: 学习如何快速适应新环境的能力。
+- 混合现实: 结合仿真和现实环境进行训练和测试。
 
 ## **具身智能的挑战与未来方向**
 
@@ -217,32 +213,86 @@ _五种虚拟到现实的迁移方案_
 
 总的来说，具身智能作为通向通用人工智能的关键路径，其研究不仅具有重要的科学意义，也蕴含着巨大的应用潜力。通过持续的创新和跨领域合作，**我们有望在不久的将来看到更加智能、灵活和可靠的具身智能系统，为人类社会带来深远的影响。**
 
-----------------END----------------
+## 相关企业
 
 **工业机器人企业**
 
-[埃斯顿自动化](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3257349072756359172&scene=21#wechat_redirect) | [埃夫特机器人](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3257353338380304393&scene=21#wechat_redirect) | [节卡机器人](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3254648088418533381&scene=21#wechat_redirect) | [珞石机器人](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3254663109932433416&scene=21#wechat_redirect) | [法奥机器人](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3286449098241556485&scene=21#wechat_redirect) | [非夕科技](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3286451235054895108&scene=21#wechat_redirect) | [CGXi 长广溪智造](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3293687153054662659&scene=21#wechat_redirect) | [大族机器人](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3286446214791774214&scene=21#wechat_redirect) |  [越疆机器人](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3286454601252290560&scene=21#wechat_redirect) | [睿尔曼智能](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3286456343213850632&scene=21#wechat_redirect) | [优艾智合机器人](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3286455478348365826&scene=21#wechat_redirect) | [阿童木机器人](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3288958340173348870&scene=21#wechat_redirect) | [盈连科技](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3293693334754115584&scene=21#wechat_redirect)
+[埃斯顿自动化](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3257349072756359172&scene=21#wechat_redirect)
+[埃夫特机器人](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3257353338380304393&scene=21#wechat_redirect)
+[节卡机器人](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3254648088418533381&scene=21#wechat_redirect)
+[珞石机器人](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3254663109932433416&scene=21#wechat_redirect)
+[法奥机器人](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3286449098241556485&scene=21#wechat_redirect)
+[非夕科技](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3286451235054895108&scene=21#wechat_redirect)
+[CGXi 长广溪智造](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3293687153054662659&scene=21#wechat_redirect)
+[大族机器人](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3286446214791774214&scene=21#wechat_redirect)
+ [越疆机器人](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3286454601252290560&scene=21#wechat_redirect)
+[睿尔曼智能](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3286456343213850632&scene=21#wechat_redirect)
+[优艾智合机器人](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3286455478348365826&scene=21#wechat_redirect)
+[阿童木机器人](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3288958340173348870&scene=21#wechat_redirect)
+[盈连科技](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3293693334754115584&scene=21#wechat_redirect)
 
 **服务与特种机器人企业**
 
-[亿嘉和](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3288954695272841217&scene=21#wechat_redirect) | [晶品特装](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3288964066522382339&scene=21#wechat_redirect) | [九号机器人](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3296726438896943115&scene=21#wechat_redirect) | [普渡机器人](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3288953102410399750&scene=21#wechat_redirect) | [机器姬](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3288959037166010374&scene=21#wechat_redirect) | [猎户星空](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3403025009986240513#wechat_redirect) [|  七腾机器人](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3403025009986240513#wechat_redirect)
+[亿嘉和](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3288954695272841217&scene=21#wechat_redirect)
+[晶品特装](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3288964066522382339&scene=21#wechat_redirect)
+[九号机器人](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3296726438896943115&scene=21#wechat_redirect)
+[普渡机器人](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3288953102410399750&scene=21#wechat_redirect)
+[机器姬](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3288959037166010374&scene=21#wechat_redirect)
+[猎户星空](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3403025009986240513#wechat_redirect) [|  七腾机器人](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3403025009986240513#wechat_redirect)
 
 **医疗机器人企业**
 
-[元化智能](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3293696134166822923&scene=21#wechat_redirect) | [天智航](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3293721766665863172&scene=21#wechat_redirect) | [思哲睿智能医疗](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3293724274507333641&scene=21#wechat_redirect) | [精锋医疗](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3293725067264344065&scene=21#wechat_redirect) | [佗道医疗](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3293726173956620290&scene=21#wechat_redirect) | [真易达](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3293690023988641800&scene=21#wechat_redirect) | [术锐 ® 机器人](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3293727229444833285&scene=21#wechat_redirect) | [罗森博特](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3293728506727841795&scene=21#wechat_redirect) | [磅客策](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3293729257676029957&scene=21#wechat_redirect) | [柏惠维康](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3293730015049891840&scene=21#wechat_redirect) [|](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3293730015049891840&scene=21#wechat_redirect) [迪视医疗](https://mp.weixin.qq.com/s?__biz=MzI5MzE0NDUzNQ==&mid=2650358812&idx=2&sn=cad3275ca22a589fe96e3c8b1e531269&scene=21#wechat_redirect)
+[元化智能](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3293696134166822923&scene=21#wechat_redirect)
+[天智航](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3293721766665863172&scene=21#wechat_redirect)
+[思哲睿智能医疗](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3293724274507333641&scene=21#wechat_redirect)
+[精锋医疗](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3293725067264344065&scene=21#wechat_redirect)
+[佗道医疗](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3293726173956620290&scene=21#wechat_redirect)
+[真易达](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3293690023988641800&scene=21#wechat_redirect)
+[术锐 ® 机器人](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3293727229444833285&scene=21#wechat_redirect)
+[罗森博特](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3293728506727841795&scene=21#wechat_redirect)
+[磅客策](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3293729257676029957&scene=21#wechat_redirect)
+[柏惠维康](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3293730015049891840&scene=21#wechat_redirect) [|](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3293730015049891840&scene=21#wechat_redirect) [迪视医疗](https://mp.weixin.qq.com/s?__biz=MzI5MzE0NDUzNQ==&mid=2650358812&idx=2&sn=cad3275ca22a589fe96e3c8b1e531269&scene=21#wechat_redirect)
 
 **人形机器人企业**
 
-[优必选科技](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3288979195142029317&scene=21#wechat_redirect) | [宇树](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3288981594753679361&scene=21#wechat_redirect) | [达闼机器人](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3288950823108165633&scene=21#wechat_redirect) | [云深处](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3288967267548086273&scene=21#wechat_redirect) | [理工华汇](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3293731065135841287&scene=21#wechat_redirect) | [傅利叶智能](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3288983966297047042&scene=21#wechat_redirect) | [逐际动力](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3288985434051788809&scene=21#wechat_redirect) | [乐聚机器人](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3293731727953313793&scene=21#wechat_redirect) | [星动纪元](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3293732259774283776&scene=21#wechat_redirect) | [天链机器人](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3467475229234692100#wechat_redirect) | [中科深谷](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3288997360286777350&scene=21#wechat_redirect)  | [大象机器人 |](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3286447187786416133&scene=21#wechat_redirect) [伟景机器人](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3288992104941305856#wechat_redirect) | [众擎机器人](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3568736079773564935#wechat_redirect) |  开普勒人形机器人
+[优必选科技](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3288979195142029317&scene=21#wechat_redirect)
+[宇树](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3288981594753679361&scene=21#wechat_redirect)
+[达闼机器人](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3288950823108165633&scene=21#wechat_redirect)
+[云深处](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3288967267548086273&scene=21#wechat_redirect)
+[理工华汇](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3293731065135841287&scene=21#wechat_redirect)
+[傅利叶智能](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3288983966297047042&scene=21#wechat_redirect)
+[逐际动力](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3288985434051788809&scene=21#wechat_redirect)
+[乐聚机器人](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3293731727953313793&scene=21#wechat_redirect)
+[星动纪元](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3293732259774283776&scene=21#wechat_redirect)
+[天链机器人](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3467475229234692100#wechat_redirect) | [中科深谷](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3288997360286777350&scene=21#wechat_redirect) 
+[大象机器人 |](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3286447187786416133&scene=21#wechat_redirect) [伟景机器人](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3288992104941305856#wechat_redirect)
+[众擎机器人](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3568736079773564935#wechat_redirect)
+开普勒人形机器人
 
 **具身智能企业**
 
-[跨维智能](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3506492927482265606#wechat_redirect) | [银河通用](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3560375973176541192#wechat_redirect) | 千寻智能 | [方舟无限](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3541439704800280581#wechat_redirect) |  微亿智造
+[跨维智能](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3506492927482265606#wechat_redirect)
+[银河通用](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3560375973176541192#wechat_redirect) | 千寻智能 | [方舟无限](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3541439704800280581#wechat_redirect)
+微亿智造
 
 **核心零部件企业**
 
-[绿的谐波](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3288991540572536835&scene=21#wechat_redirect) | [因时机器人](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3288990101775269890&scene=21#wechat_redirect) | [脉塔智能](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3293732796057993221&scene=21#wechat_redirect) | [锐驰智光](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3288993384908668938&scene=21#wechat_redirect) | [地平线](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3288995011610755083&scene=21#wechat_redirect) | [跨维智能](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3506492927482265606#wechat_redirect) | [本末科技](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3286444169649143812&scene=21#wechat_redirect) | [NOKOV 度量科技](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3288996373115387911&scene=21#wechat_redirect) | [青瞳视觉](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3288995537375150084&scene=21#wechat_redirect) | [因克斯](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3293734699584143361&scene=21#wechat_redirect) | [蓝点触控](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3293735422497603591&scene=21#wechat_redirect) | [福德机器人](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3467267189910798341#wechat_redirect) | [巨蟹智能驱动](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3467268504405671937#wechat_redirect) |  鑫精诚传感器  | 思岚科技
+[绿的谐波](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3288991540572536835&scene=21#wechat_redirect)
+[因时机器人](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3288990101775269890&scene=21#wechat_redirect)
+[脉塔智能](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3293732796057993221&scene=21#wechat_redirect)
+[锐驰智光](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3288993384908668938&scene=21#wechat_redirect)
+[地平线](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3288995011610755083&scene=21#wechat_redirect)
+[跨维智能](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3506492927482265606#wechat_redirect)
+[本末科技](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3286444169649143812&scene=21#wechat_redirect)
+[NOKOV 度量科技](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3288996373115387911&scene=21#wechat_redirect)
+[青瞳视觉](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3288995537375150084&scene=21#wechat_redirect)
+[因克斯](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3293734699584143361&scene=21#wechat_redirect)
+[蓝点触控](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3293735422497603591&scene=21#wechat_redirect)
+[福德机器人](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3467267189910798341#wechat_redirect) | [巨蟹智能驱动](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3467268504405671937#wechat_redirect)
+鑫精诚传感器  | 思岚科技
 
 **教育机器人企业**
 
-[硅步机器人](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3288998941606494211&scene=21#wechat_redirect) | [史河科教机器人](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3293738917174919171&scene=21#wechat_redirect) | [大然机器人](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3364759550264033287&scene=21#wechat_redirect)
+[硅步机器人](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3288998941606494211&scene=21#wechat_redirect)
+[史河科教机器人](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3293738917174919171&scene=21#wechat_redirect)
+[大然机器人](https://mp.weixin.qq.com/mp/appmsgalbum?__biz=MzI5MzE0NDUzNQ==&action=getalbum&album_id=3364759550264033287&scene=21#wechat_redirect)
